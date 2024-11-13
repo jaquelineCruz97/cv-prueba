@@ -1,7 +1,7 @@
 # Curriculum vitae
 Este proyecto es un ejercicio básico de HTML para aprender a llevar proyectos web. :D
 
-## Onjetivos de aprendizaje
+## Objetivos de aprendizaje
 -Aprender la estructura de HTML básica.
 -Entender el uso de elementos con sus etiquetas.
 -Agregar secciones en la estructura.
